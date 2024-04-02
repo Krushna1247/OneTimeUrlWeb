@@ -1,0 +1,16 @@
+{
+
+        "assesmentName":"Assessment for OldType ",
+        "assesmentJavaSkill":"jav",
+        "assesmentAwsSkill":"AWS",
+        "assesmentDescription":"New Assesment for Knowledge Test",
+        "Instructions":"When using a laptop at digital examinations, the laptop has to be set up as soon as possible ",
+        "numberOfQuestion":"1",
+        "numberOne":"1",
+        "numberThree":"3",
+        "numberFour":"4",
+        "numberFive":"5",
+        "numberTen":"10",
+        "passRate":"50"
+
+}

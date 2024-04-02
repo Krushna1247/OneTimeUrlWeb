@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 8.107 s <<< FAILURE! - in TestSuite
+com.qt.sid.bdd.Runner.TestRunner.scenario["Verify switch between skillcourses jobexchange and skill centres tab", "Optional[Home Page Module Features]"](1)  Time elapsed: 0.237 s  <<< FAILURE!
+java.lang.IllegalArgumentException: Unsupported browser: 
+	at com.qt.sid.bdd.Runner.TestRunner.scenario(TestRunner.java:40)
+
+com.qt.sid.bdd.Runner.TestRunner.scenario["Verify Learning Resources tab and Important links tab", "Optional[Home Page Module Features]"](2)  Time elapsed: 0.021 s  <<< FAILURE!
+java.lang.IllegalArgumentException: Unsupported browser: 
+	at com.qt.sid.bdd.Runner.TestRunner.scenario(TestRunner.java:40)
+
+com.qt.sid.bdd.Runner.TestRunner.scenario["Verify About Us in Important links tab", "Optional[Home Page Module Features]"](3)  Time elapsed: 0.021 s  <<< FAILURE!
+java.lang.IllegalArgumentException: Unsupported browser: 
+	at com.qt.sid.bdd.Runner.TestRunner.scenario(TestRunner.java:40)
+
+com.qt.sid.bdd.Runner.TestRunner.scenario["Verify Sectors in Important links tab", "Optional[Home Page Module Features]"](4)  Time elapsed: 0.015 s  <<< FAILURE!
+java.lang.IllegalArgumentException: Unsupported browser: 
+	at com.qt.sid.bdd.Runner.TestRunner.scenario(TestRunner.java:40)
+

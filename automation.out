@@ -1,0 +1,8 @@
+2024-04-02 14:04:444 INFO  LoggerHelper:58 - Clicked on Skip to Main Content button
+2024-04-02 14:04:540 INFO  LoggerHelper:63 - Clicked on skill courses section
+2024-04-02 14:04:570 INFO  LoggerHelper:65 - User is able to switch to skill courses in most popular sectoin
+2024-04-02 14:04:763 INFO  LoggerHelper:68 - Clicked on job exchange section
+2024-04-02 14:04:843 INFO  LoggerHelper:71 - User is able to switch to job exchange in most popular sectoin
+2024-04-02 14:04:160 INFO  LoggerHelper:74 - Clicked on skill centres section
+2024-04-02 14:04:217 INFO  LoggerHelper:77 - User is able to switch to skill centres in most popular sectoin
+2024-04-02 14:04:217 INFO  LoggerHelper:79 - User is able to switch between skill courses, job exchange and skill centres in most popular section
